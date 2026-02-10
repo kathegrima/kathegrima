@@ -6,7 +6,7 @@
 
 My name is Caterina
 
-## Technical Project Manager @ Robomagister
+## Technical Project Manager
 
 🔭 I manage robotics and AI-driven products, from concept to production!
 
@@ -18,7 +18,7 @@ My name is Caterina
 - ✉️ You can contact me on [LinkedIn](https://linkedin.com/in/caterina-grimaldi)
 - 🧠 I'm currently learning: AI tools for project management
 - 🤝 I'm open to collaborate on open-source projects related to robotics or automation
-- ⚡ Robotics Engineer | Former Scout Leader | Coffee-powered PM
+- ⚡ Robotics Engineer | Former Scout Leader | AI-powered PM
 
 ---
 
