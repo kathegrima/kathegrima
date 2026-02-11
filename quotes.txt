@@ -1,15 +1,15 @@
 🤖 The best way to predict the future is to invent it. - Alan Kay
-🎯 Good project management is not so much knowing what to do and when, but knowing what excuses to give and when. - Unknown
 🚀 Innovation distinguishes between a leader and a follower. - Steve Jobs
-⚙️ Robots will harvest, cook, and serve our food. They will work in our factories, drive our cars, and walk our dogs. - Rodney Brooks
-💡 AI is probably the most important thing humanity has ever worked on. - Sundar Pichai
+💡 AI is one of the most important things humanity is working on. - Sundar Pichai
 🔧 The first rule of any technology is that automation applied to an efficient operation will magnify the efficiency. - Bill Gates
 📊 Without data, you're just another person with an opinion. - W. Edwards Deming
 🤝 The strength of the team is each individual member. The strength of each member is the team. - Phil Jackson
-🧠 Machine learning will automate jobs that most people thought could only be done by people. - Dave Waters
 🎨 Design is not just what it looks like. Design is how it works. - Steve Jobs
 ⚡ The only way to do great work is to love what you do. - Steve Jobs
-🌟 Robotics is the marriage of mechanics, electronics, and software. - Unknown
-📈 Project management is the art of creating the illusion that any outcome is the result of a series of predetermined, deliberate acts. - Unknown
 🔬 Artificial intelligence is the new electricity. - Andrew Ng
 💪 Great things in business are never done by one person. They're done by a team of people. - Steve Jobs
+🎯 Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. - Antoine de Saint-Exupéry
+🧠 The advance of technology is based on making it fit in so that you don't really even notice it. - Bill Gates
+📈 The best time to plant a tree was 20 years ago. The second best time is now. - Chinese Proverb
+⚙️ Technology is best when it brings people together. - Matt Mullenweg
+🌟 Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill
