@@ -24,6 +24,13 @@ My name is Caterina
 - ⚡ Robotics Engineer | Former Scout Leader | AI-powered PM
 
 ---
+## 💡 Daily Tech Insight
+
+<!-- QUOTE:START -->
+🤖 The best way to predict the future is to invent it. - Alan Kay
+<!-- QUOTE:END -->
+---
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kathegrima&color=blueviolet&style=flat-square" alt="Profile views"/>
