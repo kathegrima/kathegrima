@@ -17,7 +17,7 @@ My name is Caterina
 
 💬 If you're interested in talking about project management, robotics or AI, reach out!
 
-- 🌍 I live in Reggio Emilia, Italy
+- 🌍 I live in Italy
 - ✉️ You can contact me on [LinkedIn](https://linkedin.com/in/caterina-grimaldi)
 - 🧠 I'm currently learning: AI tools for project management
 - 🤝 I'm open to collaborate on open-source projects related to robotics or automation
