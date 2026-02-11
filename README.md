@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./giphy.gif" width="300" height="300"/>
-</div>
+
 
 
 # Hi! 👋
@@ -8,6 +6,10 @@
 My name is Caterina
 
 ## Technical Project Manager
+
+<div align="center">
+  <img src="./giphy.gif" width="300" height="300"/>
+</div>
 
 🔭 I manage robotics and AI-driven products, from concept to production!
 
