@@ -2,13 +2,14 @@ name: Update Daily Quote
 
 on:
   schedule:
-    # Esegui ogni giorno alle 08:00 UTC (09:00 CET in inverno, 10:00 in estate)
     - cron: '0 8 * * *'
-  workflow_dispatch:  # Permette di eseguire manualmente per testare
+  workflow_dispatch:
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # ← AGGIUNGI QUESTA SEZIONE
     
     steps:
       - name: Checkout repository
