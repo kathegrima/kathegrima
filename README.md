@@ -27,7 +27,7 @@ My name is Caterina
 ## 💡 Daily Tech Insight
 
 <!-- QUOTE:START -->
-💪 Great things in business are never done by one person. They're done by a team of people. - Steve Jobs
+🤖 The best way to predict the future is to invent it. - Alan Kay
 <!-- QUOTE:END -->
 ---
 
