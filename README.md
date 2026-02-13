@@ -27,7 +27,7 @@ My name is Caterina
 ## 💡 Daily Tech Insight
 
 <!-- QUOTE:START -->
-🤖 The best way to predict the future is to invent it. - Alan Kay
+🔬 Artificial intelligence is the new electricity. - Andrew Ng
 <!-- QUOTE:END -->
 ---
 
