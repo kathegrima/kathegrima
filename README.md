@@ -27,7 +27,7 @@ My name is Caterina
 ## 💡 Daily Tech Insight
 
 <!-- QUOTE:START -->
-🔬 Artificial intelligence is the new electricity. - Andrew Ng
+⚡ The only way to do great work is to love what you do. - Steve Jobs
 <!-- QUOTE:END -->
 ---
 
