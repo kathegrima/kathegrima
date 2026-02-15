@@ -27,7 +27,7 @@ My name is Caterina
 ## 💡 Daily Tech Insight
 
 <!-- QUOTE:START -->
-⚡ The only way to do great work is to love what you do. - Steve Jobs
+📊 Without data, you're just another person with an opinion. - W. Edwards Deming
 <!-- QUOTE:END -->
 ---
 
