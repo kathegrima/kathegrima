@@ -27,7 +27,7 @@ My name is Caterina
 ## 💡 Daily Tech Insight
 
 <!-- QUOTE:START -->
-📊 Without data, you're just another person with an opinion. - W. Edwards Deming
+💪 Great things in business are never done by one person. They're done by a team of people. - Steve Jobs
 <!-- QUOTE:END -->
 ---
 
