@@ -27,7 +27,7 @@ My name is Caterina
 ## 💡 Daily Tech Insight
 
 <!-- QUOTE:START -->
-💪 Great things in business are never done by one person. They're done by a team of people. - Steve Jobs
+🔬 Artificial intelligence is the new electricity. - Andrew Ng
 <!-- QUOTE:END -->
 ---
 
