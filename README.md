@@ -27,7 +27,7 @@ My name is Caterina
 ## 💡 Daily Tech Insight
 
 <!-- QUOTE:START -->
-🔬 Artificial intelligence is the new electricity. - Andrew Ng
+🧠 The advance of technology is based on making it fit in so that you don't really even notice it. - Bill Gates
 <!-- QUOTE:END -->
 ---
 
