@@ -1,40 +1,41 @@
-# Hi! 👋 I'm Caterina
+# Hi! 👋
+
+My name is Caterina
 
 ## Technical Project Manager
-<div>
-<img align="left" src="./giphy.gif" width="300" height="300"/>
-</div>
 
-🔭 I manage robotics and AI-driven products, from concept to production!
+<table>
+<tr>
+  <td width="30%">
+    <img src="./giphy.gif" width="280" height="280"/>
+  </td>
+  <td width="70%">
+    <div align="center">
+      <strong>🔭 I manage robotics and AI-driven products, from concept to production!</strong><br><br>
+      
+      🤖 Here on GitHub I share personal projects and experiments<br>
+      💬 Interested in project management, robotics or AI? Reach out!
+    </div>
+  </td>
+</tr>
+</table>
 
-🤖 Here on GitHub I share personal projects and experiments (when I can make them public!)
-
-💬 Interested in project management, robotics or AI? Let's connect!
-
-<br clear="left"/>
+⚡ **Robotics Engineer | Former Scout Leader | AI-powered PM**
 
 ---
 
-## 🧑‍💻 About Me
+## 🌍 About Me
 
-- 🌍 Based in **Italy**
-- ⚡ Robotics Engineer · Former Scout Leader · AI-powered PM
+- 📍 Based in **Italy**
 - 🧠 Currently learning: **AI tools for project management**
-- 🤝 Open to collaborate on open-source projects related to **robotics** or **automation**
-
----
-
-## 📬 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caterina-grimaldi)
+- 🤝 Open to collaborate on open-source projects (**robotics** or **automation**)
+- ✉️ Reach me on [LinkedIn](https://linkedin.com/in/caterina-grimaldi)
 
 ---
 
 ## 💡 Daily Tech Insight
 
-<!-- QUOTE:START -->
-> 🧠 *"The advance of technology is based on making it fit in so that you don't really even notice it."* — Bill Gates
-<!-- QUOTE:END -->
+> 🧠 *The advance of technology is based on making it fit in so that you don't really even notice it.* — Bill Gates
 
 ---
 
