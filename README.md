@@ -19,6 +19,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kathegrima&color=blueviolet&style=flat-square" alt="Profile views"/>
 </div>
+
 ---
 
 ## 💡 Daily Tech Insight
