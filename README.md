@@ -1,8 +1,9 @@
 # Hi! 👋 I'm Caterina
 
 ## Technical Project Manager
-
+<div>
 <img align="left" src="./giphy.gif" width="300" height="300"/>
+</div>
 
 🔭 I manage robotics and AI-driven products, from concept to production!
 
