@@ -7,11 +7,12 @@
   <img src="./giphy.gif" width="300" height="300"/>
   
   <br/>
+  </div>
   
   🔭 **I manage robotics and AI-driven products**, from concept to production!  
   🤖 Personal projects & experiments on GitHub  
   💬 **Project management • Robotics • AI** - let's connect!
-</div>
+
 
 ⚡ **Robotics Engineer | Former Scout Leader | AI-powered PM**
 
