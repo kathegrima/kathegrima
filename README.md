@@ -2,12 +2,6 @@
 
 **Caterina**  
 ## Technical Project Manager
-
-<div align="center">
-  <img src="./giphy.gif" width="300" height="300"/>
-  
-  <br/>
-  </div>
   
   🔭 **I manage robotics and AI-driven products**, from concept to production!  
   🤖 Personal projects & experiments on GitHub  
@@ -25,6 +19,12 @@
 - 🧠 Currently learning: **AI tools for project management**
 - 🤝 Open to collaborate on open-source projects (**robotics** or **automation**)
 
+---
+<div align="center">
+  <img src="./giphy.gif" width="300" height="300"/>
+  
+  <br/>
+  </div>
 ---
 
 ## 💡 Daily Tech Insight
