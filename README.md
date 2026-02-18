@@ -1,6 +1,6 @@
 # Hi! 👋
 
-**Caterina**  
+**I'm Caterina**  
 ## Technical Project Manager
   
   🔭 **I manage robotics and AI-driven products**, from concept to production!  
