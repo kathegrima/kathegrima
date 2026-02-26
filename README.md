@@ -16,7 +16,7 @@
 - ✉️ [LinkedIn](https://linkedin.com/in/caterina-grimaldi)  
 - 🧠 Learning: **AI tools for project management**  
 - 🤝 Open to **robotics** & **automation** open-source collabs
-- 
+  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kathegrima&color=blueviolet&style=flat-square" alt="Profile views"/>
 </div>
